@@ -1,0 +1,4 @@
+0 Cats
+1 Lizards
+2 Dogs
+3 Birds
